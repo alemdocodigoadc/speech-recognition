@@ -52,3 +52,9 @@ body {
     background-color: #55d4c1cf;
     transition: 0.5s;
 }
+
+.container small {
+    display: block;
+    padding-top: 2rem;
+    color: #4c4a60;
+}
